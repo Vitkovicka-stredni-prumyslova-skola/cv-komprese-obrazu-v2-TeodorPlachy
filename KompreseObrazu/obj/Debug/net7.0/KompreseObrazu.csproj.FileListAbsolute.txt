@@ -1,0 +1,14 @@
+C:\Users\MartinKapcala\OneDrive - Vítkovická střední průmyslová škola\Dokumenty\Programování\PG\Komprese-obrazu\KompreseObrazu\obj\Debug\net7.0\KompreseObrazu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MartinKapcala\OneDrive - Vítkovická střední průmyslová škola\Dokumenty\Programování\PG\Komprese-obrazu\KompreseObrazu\obj\Debug\net7.0\KompreseObrazu.AssemblyInfoInputs.cache
+C:\Users\MartinKapcala\OneDrive - Vítkovická střední průmyslová škola\Dokumenty\Programování\PG\Komprese-obrazu\KompreseObrazu\obj\Debug\net7.0\KompreseObrazu.AssemblyInfo.cs
+C:\Users\MartinKapcala\OneDrive - Vítkovická střední průmyslová škola\Dokumenty\Programování\PG\Komprese-obrazu\KompreseObrazu\obj\Debug\net7.0\KompreseObrazu.csproj.CoreCompileInputs.cache
+C:\Users\MartinKapcala\OneDrive - Vítkovická střední průmyslová škola\Dokumenty\Programování\PG\Komprese-obrazu\KompreseObrazu\bin\Debug\net7.0\KompreseObrazu.exe
+C:\Users\MartinKapcala\OneDrive - Vítkovická střední průmyslová škola\Dokumenty\Programování\PG\Komprese-obrazu\KompreseObrazu\bin\Debug\net7.0\KompreseObrazu.deps.json
+C:\Users\MartinKapcala\OneDrive - Vítkovická střední průmyslová škola\Dokumenty\Programování\PG\Komprese-obrazu\KompreseObrazu\bin\Debug\net7.0\KompreseObrazu.runtimeconfig.json
+C:\Users\MartinKapcala\OneDrive - Vítkovická střední průmyslová škola\Dokumenty\Programování\PG\Komprese-obrazu\KompreseObrazu\bin\Debug\net7.0\KompreseObrazu.dll
+C:\Users\MartinKapcala\OneDrive - Vítkovická střední průmyslová škola\Dokumenty\Programování\PG\Komprese-obrazu\KompreseObrazu\bin\Debug\net7.0\KompreseObrazu.pdb
+C:\Users\MartinKapcala\OneDrive - Vítkovická střední průmyslová škola\Dokumenty\Programování\PG\Komprese-obrazu\KompreseObrazu\obj\Debug\net7.0\KompreseObrazu.dll
+C:\Users\MartinKapcala\OneDrive - Vítkovická střední průmyslová škola\Dokumenty\Programování\PG\Komprese-obrazu\KompreseObrazu\obj\Debug\net7.0\refint\KompreseObrazu.dll
+C:\Users\MartinKapcala\OneDrive - Vítkovická střední průmyslová škola\Dokumenty\Programování\PG\Komprese-obrazu\KompreseObrazu\obj\Debug\net7.0\KompreseObrazu.pdb
+C:\Users\MartinKapcala\OneDrive - Vítkovická střední průmyslová škola\Dokumenty\Programování\PG\Komprese-obrazu\KompreseObrazu\obj\Debug\net7.0\KompreseObrazu.genruntimeconfig.cache
+C:\Users\MartinKapcala\OneDrive - Vítkovická střední průmyslová škola\Dokumenty\Programování\PG\Komprese-obrazu\KompreseObrazu\obj\Debug\net7.0\ref\KompreseObrazu.dll
