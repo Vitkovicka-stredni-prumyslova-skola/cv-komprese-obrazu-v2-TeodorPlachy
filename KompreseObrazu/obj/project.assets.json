@@ -1,36 +1,36 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net9.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\MartinKapcala\\.nuget\\packages\\": {}
+    "/home/teodor/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MartinKapcala\\OneDrive - Vítkovická střední průmyslová škola\\Dokumenty\\Programování\\PG\\Komprese-obrazu\\KompreseObrazu\\KompreseObrazu.csproj",
+      "projectUniqueName": "/home/teodor/github-classroom/Vitkovicka-stredni-prumyslova-skola/cv-komprese-obrazu-v2-TeodorPlachy/KompreseObrazu/KompreseObrazu.csproj",
       "projectName": "KompreseObrazu",
-      "projectPath": "C:\\Users\\MartinKapcala\\OneDrive - Vítkovická střední průmyslová škola\\Dokumenty\\Programování\\PG\\Komprese-obrazu\\KompreseObrazu\\KompreseObrazu.csproj",
-      "packagesPath": "C:\\Users\\MartinKapcala\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MartinKapcala\\OneDrive - Vítkovická střední průmyslová škola\\Dokumenty\\Programování\\PG\\Komprese-obrazu\\KompreseObrazu\\obj\\",
+      "projectPath": "/home/teodor/github-classroom/Vitkovicka-stredni-prumyslova-skola/cv-komprese-obrazu-v2-TeodorPlachy/KompreseObrazu/KompreseObrazu.csproj",
+      "packagesPath": "/home/teodor/.nuget/packages/",
+      "outputPath": "/home/teodor/github-classroom/Vitkovicka-stredni-prumyslova-skola/cv-komprese-obrazu-v2-TeodorPlachy/KompreseObrazu/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\MartinKapcala\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/teodor/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net7.0"
+        "net9.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "projectReferences": {}
         }
       },
@@ -38,11 +38,16 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
-      "net7.0": {
-        "targetAlias": "net7.0",
+      "net9.0": {
+        "targetAlias": "net9.0",
         "imports": [
           "net461",
           "net462",
@@ -59,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.405\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.100-preview.2.24157.14/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
